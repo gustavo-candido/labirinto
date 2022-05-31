@@ -5,6 +5,6 @@
 
 <div>
    <p align="center">
-      <img src=".github/demo.gif" width="200"/>
+      <img src=".github/demo.gif" width="800"/>
    </p>
 </div>
